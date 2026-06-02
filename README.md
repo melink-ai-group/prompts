@@ -10,14 +10,14 @@
 
 ---
 
-There is a whole world of AI out there — models, apps, APIs, noise. Most of it never quite reaches you.
+There is a whole world of AI out there — models, apps, APIs, agents. Most of it never quite reaches you.
 
 **meLink** is how we link that world to you: your taste, your standards, your voice. 
 
-Not “AI for everyone” in the abstract.  
+Not "AI for everyone" in the abstract.  
 **Your intelligence, on your terms.**
 
-We vet it, build it, stress test it, and then share it — without bullshit noise.  
+We vet it, build it, stress test it, and then share it — without the bullshit.  
 Everything we put out is tried, tested, and genuinely useful for someone to apply.
 
 ---
@@ -28,7 +28,7 @@ Everything we put out is tried, tested, and genuinely useful for someone to appl
 
 AI is powerful. It is not yet usable — because every session starts from zero. You hunt through settings. You re-teach context the model already had yesterday. You accept answers that are plausible but not yours: generic, forgetful, never quite aligned with how you actually think.
 
-**meLink** closes that distance.  
+**meLink** closes that gap.  
 
 Shared prompts. Clear voice. Judgment you can copy, paste, and carry across tools, teams, and time — so the world of AI finally connects to you.
 
@@ -36,7 +36,3 @@ Shared prompts. Clear voice. Judgment you can copy, paste, and carry across tool
 
 **melink - Linking the world of AI to me.**
 
----
-
-Your's Sincerely
-Us
