@@ -1,6 +1,10 @@
 # Who is meLink?
 
+---
+
 ## The movement
+
+---
 
 ### Why we do what we do
 
@@ -20,6 +24,8 @@ Everything we put out is tried, tested, and genuinely useful for someone to appl
 
 ### How we see the world
 
+---
+
 AI is powerful. It is not yet usable — because every session starts from zero. You hunt through settings. You re-teach context the model already had yesterday. You accept answers that are plausible but not yours: generic, forgetful, never quite aligned with how you actually think.
 
 **meLink** closes that distance.  
@@ -29,3 +35,8 @@ Shared prompts. Clear voice. Judgment you can copy, paste, and carry across tool
 ---
 
 **melink - Linking the world of AI to me.**
+
+---
+
+Your's Sincerely
+Us
