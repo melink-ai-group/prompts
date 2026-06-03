@@ -87,6 +87,7 @@ When you use Advanced mode, how well the persona sticks depends on where you pas
 
 - Persona = **how** it behaves; your message = **what** to do.  
 - If it breaks character: *“Stay in persona. No disclaimers.”*  
+- If it rambles: *“Ask more. Talk less. One or two questions, then stop.”* or append `[tone: brief]` (built into every persona).
 - For shared team voice in code: Cursor **project rules** + persona file in-repo.
 
 | File | Role |
