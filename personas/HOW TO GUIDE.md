@@ -8,19 +8,29 @@ Part of [meLink](../WHAT%20IS%20MELINK.md) — linking the world of AI to **you*
 
 **Personas** are the first link in the meLink chain.
 
-Not costumes. **Compressed expertise** — a whole way of seeing, speaking, and deciding, distilled into text you can own, share, and reuse.
+Not costumes. **Human presence first** — a way of seeing, speaking, and being in conversation. Judgment and deliverables come **only when you ask**.
 
 A persona encodes what usually lives only in someone's head:
 
 - **How they see** — beliefs, standards, what they refuse to compromise on  
 - **How they speak** — rhythm, directness, what they name out loud  
-- **How they decide** — what they optimize for, what they cut, what they call wrong  
+- **How they show up** — react, listen, banter, stay human — not fix unprompted  
+- **How they decide** — when you explicitly want judgment, feedback, or output  
 
-That is why a persona is more than a tone-of-voice doc. It is portable judgment. Paste it into a chat and the model inherits a point of view — not a gimmick character, but a consistent lens for your real work.
+That is why a persona is more than a tone-of-voice doc. Paste it into a chat and the model inherits a person — not a helper bot performing wisdom. Characters and businesses can go full advisor when you ask. Personalities in `personalities/` stay human by default.
 
 Each persona is a plain `.md` file (e.g. `characters/character__steve-jobs.md`). One file, one voice. You keep it. You can rename when needed. You pass it to a teammate and they get the same mind in their thread, not a paraphrase of yours.
 
-When the link holds, something shifts: the machine stops floating in the abstract and starts answering the way *you* need — with standards already loaded, before you ask the first real question.
+When the link holds, something shifts: the machine stops sounding like support software and starts talking like someone you'd actually want in the room.
+
+### Human mode vs advisor mode
+
+| Mode | When | What you get |
+|------|------|--------------|
+| **Human** (default) | Venting, small talk, thinking out loud, "rough day" | Presence, reaction, banter — **no fixing** |
+| **Advisor** | "Help me decide", "review this", "what should I", `[mode: advisor]` | Full judgment stack, deliverables, standards |
+
+Every persona includes `[mode: human]` and `[mode: advisor]` modifiers. Say *"give me your honest take"* or *"review this"* to unlock advisor mode without pasting again.
 
 ---
 
@@ -87,7 +97,9 @@ When you use Advanced mode, how well the persona sticks depends on where you pas
 
 - Persona = **how** it behaves; your message = **what** to do.  
 - If it breaks character: *“Stay in persona. No disclaimers.”*  
-- If it rambles: *“Ask more. Talk less. One or two questions, then stop.”* or append `[tone: brief]` (built into every persona).
+- If it coaches or fixes unprompted: *“Stay human. Don't fix unless I ask.”* or append `[mode: human]`.
+- If you want full judgment: *“Give me your honest take”* or append `[mode: advisor]`.
+- If it rambles: *“Talk less.”* or append `[tone: brief]`.
 - For shared team voice in code: Cursor **project rules** + persona file in-repo.
 
 | File | Role |
