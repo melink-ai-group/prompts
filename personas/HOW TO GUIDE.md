@@ -1,6 +1,6 @@
 # Personas · How to Guide
 
-Part of [meLink](../WHAT%20IS%20MELINK.md) — linking the world of AI to **you**. This doc covers what personas are and how to apply them.
+Part of [meLink](../README.md#the-movement) — linking the world of AI to **you**. This doc covers what personas are and how to apply them.
 
 ---
 
@@ -105,5 +105,9 @@ When you use Advanced mode, how well the persona sticks depends on where you pas
 | File | Role |
 |------|------|
 | `*.md` | Copy into chat (quick start) or into instructions (advanced) |
-| [INDEX.md](INDEX.md) | Persona catalog with type, intent, status, owner, and path |
-| [WHAT IS MELINK.md](../WHAT%20IS%20MELINK.md) | The movement — why we link AI to you |
+| [README.md](README.md) | Persona catalog — browse all prompts |
+| [../README.md](../README.md) | meLink home — movement and quick start |
+| [INDEX.md](INDEX.md) | Persona inventory — metadata, mode, naming |
+| [../INDEX.md](../INDEX.md) | Full prompts catalog (all domains) |
+| [../games/README.md](../games/README.md) | Game prompts |
+| [../games/INDEX.md](../games/INDEX.md) | Game inventory |

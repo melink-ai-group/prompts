@@ -2,6 +2,8 @@
 
 Source of truth for persona inventory and ownership.
 
+Browse prompts: [README.md](README.md) · Repo home: [../README.md](../README.md)
+
 ## Naming
 
 - Pattern: `<domain>__<name>.md`
@@ -81,10 +83,13 @@ Personas are portable judgment lenses for personal AI use.
 
 ## Folder map
 
-- `characters/` — named voices (real or fictional)
-- `personalities/` — human archetypes; no solving by default
-- `businesses/` — company/brand/operator voices
+- `characters/` — named voices — [characters/README.md](characters/README.md)
+- `personalities/` — human archetypes — [personalities/README.md](personalities/README.md)
+- `businesses/` — company/brand voices — [businesses/README.md](businesses/README.md)
 - `_templates/` — starter files for each type
+- `../games/` — interactive game hosts — [games/README.md](../games/README.md)
+
+Full repo catalog: [../INDEX.md](../INDEX.md)
 
 ## Templates
 
